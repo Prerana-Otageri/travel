@@ -1,4 +1,4 @@
-# travel
+# Travel Webpage
 Responsive Webpage using Javascript, HTML, CSS.
 
 # How to run
